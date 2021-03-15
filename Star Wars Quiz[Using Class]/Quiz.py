@@ -1,7 +1,7 @@
 from Question import Question
 
 question_prompts = [
-    "How many suns is Luke watching set in this shot? \nA. 1 \nB. 2 \nC. 3 \n4. 4\n\n",
+    "How many suns are there for the planet Tatooine? \nA. 1 \nB. 2 \nC. 3 \n4. 4\n\n",
     "What species is Jabba? \nA. Ithorian \nB. Jawa  \nC. Hutt \nD. Jenet\n\n",
     "Which order brought about the death of the Jedi? \nA. Order 55 \nB. Order 66 \nC. Order 77 \nD. Order 88\n\n",
     "Who are the only two characters who appear in every Star Wars movie? \nA. Luke & Leia \nB. Han & Chewbacca \nC. Darth Vader & Emperor Palpatine \nD. C-3PO & R2-D2\n\n",
