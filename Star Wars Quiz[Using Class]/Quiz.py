@@ -18,6 +18,7 @@ questions = [
 
 
 def run_test(questions):
+        print("Welcome to the Star WArs Trivia Game! \nAll answers will be given as A-D choices... \nHave fun and...\nMAY THE FORCE BE WITH YOU!\n")
     score = 0
     for question in questions:
         answer = input(question.prompt).upper()
